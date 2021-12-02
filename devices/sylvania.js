@@ -196,5 +196,5 @@ module.exports = [
     description: 'Smart+ Adjustable White and Full Color Bulb A19',
     extend: extend.light_onoff_brightness_colortemp_color(),
     ota: ota.ledvance,
-    };
+    },
 ];
