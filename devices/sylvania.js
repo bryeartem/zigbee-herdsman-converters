@@ -190,11 +190,11 @@ module.exports = [
         ota: ota.ledvance,
     },
     {
-    zigbeeModel: ['A19 G2 RGBW'],
-    model: '75564',
-    vendor: 'Sylvania',
-    description: 'Smart+ Adjustable White and Full Color Bulb A19',
-    extend: extend.light_onoff_brightness_colortemp_color(),
-    ota: ota.ledvance,
+        zigbeeModel: ['A19 G2 RGBW'],
+        model: '75564',
+        vendor: 'Sylvania',
+        description: 'Smart+ Adjustable White and Full Color Bulb A19',
+        extend: extend.light_onoff_brightness_colortemp_color(),
+        ota: ota.ledvance,
     },
 ];
